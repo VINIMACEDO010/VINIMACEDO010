@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @VINIMACEDO010
+- 👀 I’m interested in web development, mobile development, and databases.
+- 🌱 I’m currently learning Pascal, SQL, JavaScript, CSS, and HTML.
+- 💞️ I’m looking to collaborate on open-source projects and innovative web/mobile applications.
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/vinicius-policarpo-macedo-a1327121b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app/), [Email](mailto:viniciusmacedo010@outlook.com)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love solving coding challenges and participating in hackathons!
